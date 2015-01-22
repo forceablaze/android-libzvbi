@@ -1,0 +1,4 @@
+need iconv library
+
+build
+    $ ndk-build
